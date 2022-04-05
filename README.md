@@ -12,9 +12,11 @@
 ## Overview
 The purpose of this analysis was to look into the treads of NYC Citi Bike rentals to find insights for a similar business in Des Moines, IA.
 
-## Results
+## Tableau Dashboard
 
-[Link to the Tableau Public Dashboard](https://public.tableau.com/app/profile/kevin.d.brian/viz/Bike_Sharing_16491210938780/Story1?publish=yes)
+[>>>>Link to the Tableau Public Dashboard<<<<](https://public.tableau.com/app/profile/kevin.d.brian/viz/Bike_Sharing_16491210938780/Story1?publish=yes)
+
+## Results
 
 To start, the data had a column for `tripduration` that needed to be converted to a datetime format, this was done using python and jupyter notebooks.
 
