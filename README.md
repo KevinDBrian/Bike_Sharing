@@ -3,11 +3,11 @@
 ## Resources
 *   Data Source: Citi Bike Trip Data for August 2019 - [Link to Source Site](https://s3.amazonaws.com/tripdata/index.html)
 *   Software:
-        *   Tableau Public 2021.4
-        *   Python 3.9.7
-        *   Jupyter Notebook 6.4.5
-        *   Anaconda 4.11.0
-        *   Visual Studio Code 1.63.2
+       *   Tableau Public 2021.4
+       *   Python 3.9.7
+       *   Jupyter Notebook 6.4.5
+       *   Anaconda 4.11.0
+       *   Visual Studio Code 1.63.2
 
 ## Overview
 The purpose of this analysis was to look into the treads of NYC Citi Bike rentals to find insights for a similar business in Des Moines, IA.
